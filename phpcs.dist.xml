@@ -12,7 +12,7 @@
     <file>config/</file>
     <file>public/</file>
     <file>src/</file>
-    <!--    <file>tests/</file>-->
+    <file>tests/</file>
 
     <exclude-pattern>*/src/Standards/*/Tests/*\.(inc|css|js)$</exclude-pattern>
     <exclude-pattern>*/tests/Core/*/*\.(inc|css|js)$</exclude-pattern>
